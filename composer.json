@@ -1,0 +1,20 @@
+{
+    "name": "thegrunt/sphinxapi",
+    "description": "SphinxSearch PHP API",
+    "require": {
+        "php": ">=4"
+    },
+    "license": "GPL",
+    "type": "library",
+    "keywords": ["sphinx"],
+    "homepage": "http://sphinxsearch.com/",
+    "authors": [
+        {
+            "name": "Andrew Aksyonoff",
+            "homepage": "http://sphinxsearch.com/"
+        }
+    ],
+    "autoload": {
+        "classmap": ["sphinxapi.php"]
+    }
+}
